@@ -9,9 +9,7 @@ const siteConfig = {
     name: 'Rayirth Kulshrestha',
     title: 'Economics Undergraduate | Finance & Analytics Enthusiast',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Rayirth Kulshrestha is an undergraduate student of Economics at Christ University, Bangalore. He has a strong academic foundation in microeconomics, macroeconomics, applied statistics, and Indian economic history.\n\n' +
-    'He is actively interested in personal finance, stock market investing, and financial analytics. Rayirth has hands-on exposure to Excel-based analysis and financial modeling through certifications and simulations.\n\n' +
-    'Alongside academics, he holds leadership roles in university student bodies, contributing to event management, finance planning, and peer education initiatives.',
+    description:   'Rayirth Kulshrestha is an undergraduate student of Economics at Christ University, Bangalore, with a strong academic foundation in microeconomics, macroeconomics, applied statistics, and Indian economic history.',
     tagline: 'Exploring economics, finance, and data-driven decision making.',
   location: 'Bangalore, India',
   },
@@ -296,12 +294,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'rayirthkulshrestha@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
-    github: 'https://github.com/chandraveshchaudhari',
-    googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
-  orcid: 'https://orcid.org/0000-0003-1053-7541',
-  },
+  email: 'rayirthkulshrestha@gmail.com',
+},
 };
 
 export default siteConfig;
