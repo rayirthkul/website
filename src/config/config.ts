@@ -12,7 +12,7 @@ const siteConfig = {
     description: 'Rayirth Kulshrestha is an undergraduate student of Economics at Christ University, Bangalore. He has a strong academic foundation in microeconomics, macroeconomics, applied statistics, and Indian economic history.\n\n' +
     'He is actively interested in personal finance, stock market investing, and financial analytics. Rayirth has hands-on exposure to Excel-based analysis and financial modeling through certifications and simulations.\n\n' +
     'Alongside academics, he holds leadership roles in university student bodies, contributing to event management, finance planning, and peer education initiatives.',
-    tagline: 'Exploring economics, finance, and data-driven decision making.',
+  
   location: 'Bangalore, India',
   },
 
