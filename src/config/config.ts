@@ -6,17 +6,13 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Dr. Chandravesh Chaudhari',
-    title: 'Assistant Professor | Multimodal AI Researcher',
+    name: 'Rayirth Kulshrestha',
+    title: 'Economics Undergraduate | Finance & Analytics Enthusiast',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
-        '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
-        '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
-        '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
-    tagline: 'Empowering business through data-driven intelligence.',
+    description: 'Rayirth Kulshrestha is an undergraduate student of Economics at Christ University, Bangalore. He has a strong academic foundation in microeconomics, macroeconomics, applied statistics, and Indian economic history.\n\n' +
+    'He is actively interested in personal finance, stock market investing, and financial analytics. Rayirth has hands-on exposure to Excel-based analysis and financial modeling through certifications and simulations.\n\n' +
+    'Alongside academics, he holds leadership roles in university student bodies, contributing to event management, finance planning, and peer education initiatives.',
+    tagline: 'Exploring economics, finance, and data-driven decision making.',
   location: 'Bangalore, India',
   },
 
@@ -300,7 +296,7 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
+    email: 'rayirthkulshrestha@gmail.com',
     linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
