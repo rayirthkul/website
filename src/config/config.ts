@@ -9,8 +9,8 @@ const siteConfig = {
     name: 'Rayirth Kulshrestha',
     title: 'Economics Undergraduate | Aspiring Analyst',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description:     'Diya Premchandani is a Bachelor of Arts (Economics) student at Christ University, Bangalore, with a strong interest in economic analysis, public policy, and financial markets.\n\n' +
-    'Her academic work focuses on applying economic theory and quantitative tools to real-world problems, including monetary policy transmission, market structures, and development economics.\n\n' +
+    description:     'Rayirth Kulshrestha is a Bachelor of Arts (Economics) student at Christ University, Bangalore, with a strong interest in economic analysis, public policy, and financial markets.\n\n' +
+    'His academic work focuses on applying economic theory and quantitative tools to real-world problems, including monetary policy transmission, market structures, and development economics.\n\n' +
     'She has hands-on experience with data analysis, field surveys, and applied research through academic projects, service-learning initiatives, and student-led fellowships.',
     tagline: 'Exploring economics through data, policy, and real-world impact.',
   location: 'Bangalore, India',
